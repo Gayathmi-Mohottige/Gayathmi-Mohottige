@@ -16,7 +16,7 @@
       <ul>
         <li>🔭 I’m currently working on <a href="https://eleye.site/"> <b>EleEYE</b></a> - An Elephant Road Safety & Early Warning System</li>
         <li>🌱 I’m currently learning <b>Node.js & React</b></li>
-        <li>💬 Ask me about <b>Java, Spring Boot, and Backend Development</b></li>
+        <li>💬 Ask me about <b>Java, Backend Development, and UI/UX designing</b></li>
         <li>📫 How to reach me: <b>gayathmi.20232182@iit.ac.lk</b></li>
         <li>⚡ Fun fact: <b>I love traveling! 🌍✈️</b></li>
       </ul>
