@@ -60,8 +60,5 @@
 </div>
 
 ---
-
-![Snake animation](https://github.com/gayathmi-mohottige/gayathmi-mohottige/blob/output/github-contribution-grid-snake.svg)
-
 ✨ **Thanks for visiting my profile!** 🚀
 
