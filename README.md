@@ -24,6 +24,7 @@
     <td width="50%" align="center">
       <img src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="80%">
     </td>
+
   </tr>
 </table>
 
