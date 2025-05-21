@@ -57,7 +57,6 @@
 <!-- GitHub Stats Side by Side -->
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathmi-mohottige&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayathmi-mohottige&" alt="GitHub Streak" height="180px" />
 </div>
 
 ---
