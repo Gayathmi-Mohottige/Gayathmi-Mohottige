@@ -47,7 +47,7 @@
 ### 🛠 **Languages & Tools**
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,next,react,java,spring,python,postgres,mysql,mongodb,php,html,css,tailwind,bootstrap,git,figma" height="50"/>
+        <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,next,react,spring,python,postgres,mysql,mongodb,php,html,css,tailwind,bootstrap,git,figma" height="50"/>
     </a>
 </p>
 
